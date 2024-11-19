@@ -1,9 +1,8 @@
-
 /* Body decoration */
 
 body {
   text-align: center;
-  background-color: Black;
+  background-color: black;
   font-family: "Courier New";
   overflow-x: hidden;
   padding-right: 20px;
@@ -16,7 +15,7 @@ html, body {
 
 .center {
   text-align: center;
-  
+
 }
 
 .hide{
